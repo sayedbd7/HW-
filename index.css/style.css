@@ -1,0 +1,21 @@
+.box{
+     background-color: rgb(157, 238, 238);
+     width: 450px;
+     font-family: Arial, Helvetica, sans-serif;
+     padding: 25px 30px;
+     box-sizing: border-box;
+     margin: 10px auto;
+}
+
+.box a{
+     background-color: black;
+     color: azure;
+     text-decoration: none;
+     padding: 10px;
+     display: inline-block;
+     
+}
+.box a:hover{
+     background-color: rgb(238, 68, 68);
+     
+}
